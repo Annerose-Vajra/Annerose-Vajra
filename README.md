@@ -7,9 +7,14 @@
 - ⚡ Fun fact: 我不太喜欢法典。</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.facebook.com/huy.bui.285831/" target="blank" title="Facebook">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://linkedin.com/in/annerose-vajra" target="blank" title="LinkedIn">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annerose-vajra" height="30" width="40" />
   </a>
+  <a href="https://kaggle.com/annerose-vajra" target="blank" title="Kaggle">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="annerose-vajra" height="30" width="40" />
+  </a>
+</p>
+
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
