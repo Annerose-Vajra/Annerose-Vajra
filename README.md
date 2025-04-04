@@ -1,7 +1,6 @@
 
-###### Hi 👋, I'm Bui Quang Huy - Annerose Vajra
+<h1> Hi 👋, I'm Bui Quang Huy - Annerose Vajra </h1>
 
-- 👋 Hi, I’m @Annerose-Vajra
 - 👀 I’m interested in gaming and reading 
 - 🌱 I’m currently learning code for newbie 
 - 💞️ I’m looking to collaborate on (I can't)
