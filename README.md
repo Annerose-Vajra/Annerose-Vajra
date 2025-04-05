@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bui Quang Huy - Annerose Vajra</h1>
-<h3 align="center">- 👀 I’m interested in gaming and reading 
+<h3 align="center">- 👀 I’m interested in music and reading 
 - 🌱 I’m currently learning code for newbie 
-- 💞️ I’m looking to collaborate on (I can't)
-- 📫 How to reach me (you shouldn't)
+- 💞️ I’m looking to collaborate on 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 我不太喜欢法典。</h3>
 <h3 align="center">Connect with me:</h3>
